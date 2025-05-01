@@ -1,0 +1,33 @@
+
+Project Name: File Management System
+This project implements a simple login system that checks the entered username and password against the hardcoded values. The project is developed by Shah Aayush.
+
+Table of Contents
+Technologies
+Setup
+Usage
+Database
+Contributors
+Technologies
+
+This project is implemented using:
+
+java jdk-19
+XAMPP database
+Setup
+To run this project on your local machine, you need to:
+
+Extract my Folder
+Update the database connection details in the mydatabase.sql file
+Run the execute.bat file
+
+Usage
+Once the project is up and running, you can access the Online File Management system using the web interface. Enter the username and password and click on the login button. If the credentials are correct, you will be redirected to the dashboard. Otherwise, an error message will be displayed.
+
+Database
+This project uses a MySQL database named mydatabase. The database has one table named files which stores information about uploaded files.
+
+Contributors
+Shah Aayush (Developer)
+
+
